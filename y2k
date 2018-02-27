@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>THE GAME OFF 8</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+</head>
+<body>
+	<br><br><br><br><br><br><br><br>
+	<img id="DromedarioImg" src="imagem/dromedario.jpg"
+	width="400" 
+	height="380">
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	<p>Não é camelo</p>
+	<p id="retornar"> <a href="index.html"> HOME</a></p>
+</body>
+</html>

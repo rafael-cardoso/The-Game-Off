@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>THE GAME OFF 10</title>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<meta charset="utf-8">
+</head>
+<body><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	<p id="SOS">...---...</p>
+</body>
+</html>

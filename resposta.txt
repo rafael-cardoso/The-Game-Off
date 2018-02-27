@@ -1,0 +1,22 @@
+1 - 0
+2 - facebook
+3 - velha
+4 - 01110011 
+5 - +-------------------+
+	/                   /
+    / acesso.htm        /
+    / destaque_hpg.js   /
+    / script_passaword  /
+    / teste;hym         / 
+    / teste1.htm        /
+    +-------------------+
+    resposta:
+     usuario: 123abc
+     senha:    31917
+
+6 -  g
+7 - y2k
+8 - dromedario
+9 - 200
+10 - tim
+11 - sos

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>THE GAME OFF 11</title>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<meta charset="utf-8">
+</head>
+<body>
+<p id="ajuda">
+	
+Por favor senhor, Me ajude a salvar mais um.<br>
+Mais um, Ajuda-me a salvar mais um.
+<br><br><br><br><br> </p>
+<p id="ajudaa">
+Primeiro nome.
+
+</p>
+</body>
+</html>

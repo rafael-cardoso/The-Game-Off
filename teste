@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>THE GAME OFF 6</title>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<meta charset="utf-8">
+</head>
+<body>
+		<p>A=A <br>B=B<br>C=C<br>D=D
+	<img  id="GoogleImg" src="imagem/google.png"
+	width="520" height="480"
+	>
+	</p>
+<p id="retornar"> <a href="index.html"> HOME</a></p></body>
+</html>

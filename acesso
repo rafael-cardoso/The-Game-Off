@@ -1,0 +1,38 @@
+<html>
+<head>
+  <title> THE GAME OFF 5</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+  <meta name="ProgId" content="FrontPage.Editor.Document">
+  <link rel="stylesheet" type="text/css" href="css/estilo.css">
+  <script src="destaque_hpg.js">
+</script>
+  </head>
+<body>
+<div class="container" id="senha">
+  <p > Usuário: pergunta a sub pagina no facebook <br>
+ <a href="https://www.facebook.com/The-Game-Off-182336642495596/"> Clicando Aqui</a></p>
+  <p > senha: "Amora" está para "aroma" assim como 71913 está para: </p>
+<form id="" name="password">
+   <table id="senha" border="1" width="27%">
+    <tr>
+      <td width="32%"><b>Usuário:</b></td>
+      <td width="88%"><input type="text" name="nome" size="25"></td>
+    </tr>
+    <tr>
+      <td  width="32%"><b>Senha:</b></td>
+      <td width="88%"><input type="password" name="senha" size="25"></td>
+    </tr>
+  </table>
+  <p><input type="submit" value="Enviar" name="B1" onclick="pass()"><input type="reset" value="Limpar" name="B2"></p>
+</form>
+</div>
+
+<img id="pensador" src="imagem/pensador.png"  
+  width="400" 
+  height="450"> <!--PENSADOR IMAGEM-->
+
+<p id="retornar"> <a href="index.html"> HOME</a></p></body>
+</html>
+
+

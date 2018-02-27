@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>THE GAME OFF</title>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<meta charset="utf-8">
+</head>     <!--JA FALEI QUE AQUI NAO TEM NADA, VOCE ERROU XD-->
+<body>
+	<p id="retornar"> <a href="index.html"> HOME</a></p>
+<p id="GoogleErro"> AQUI NÃO TEM NADA<br>:P</p>
+</body>
+</html>
